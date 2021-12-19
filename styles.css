@@ -79,7 +79,7 @@ header .profile-image {
   transform: scale(1.2) rotate(5deg);
 }
 
-header .experience-brown {
+ .experience-brown {
   text-align: center;
   background: url('images/brownaesthetics.jpg') no-repeat top center ;
   background-size: cover;
@@ -87,11 +87,11 @@ header .experience-brown {
   padding-top: 60px;
 }
 
-header .experience-brown {
+ .experience-brown {
   line-height: 1.5;
 }
 
-header .experience-brown .profile-image {
+ .experience-brown .profile-image {
   margin-top: 50px;
   width: 135px;
   height: 150px;
@@ -99,7 +99,7 @@ header .experience-brown .profile-image {
   border: 3px solid white;
   transition: all .5s;
 }
-header .experience-brown .profile-image:hover {
+ .experience-brown .profile-image:hover {
   transform: scale(1.2) rotate(5deg);
 }
 
